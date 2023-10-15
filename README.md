@@ -3,7 +3,7 @@ Website ini dibangun menggunakan Currency Converter API dari Ninjas API yang ber
 
 # Instalasi
 1. Clone repository yang ada
-2. Jalankan perintah4.
+2. Jalankan perintah berikut : 
       
             npm install
 
